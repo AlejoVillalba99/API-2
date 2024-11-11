@@ -1,0 +1,16 @@
+{
+    "OrderID" : 3275,
+    "Address" : "Callao 2350",
+    "Status"  : "Listo",
+    "Articles" : [
+        {
+            "Name": "Almohada",
+            "Price": 23000,
+            "Quantity": 2,
+            "Dangerous": false
+        }
+
+    ]
+
+
+}
